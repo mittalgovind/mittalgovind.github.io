@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Govind Mittal"
-  avatar           : "/assets/headshot.jpg"
-  bio              : "Ph.D. Candidate, New York University, Tandon School of Engineering."
+  avatar           : "./assets/headshot.jpg"
+  bio              : "Computer Science, Ph.D. Candidate"#, New York University, Tandon School of Engineering."
   location         : "Brooklyn, NY"
   email            :
   links:
@@ -124,6 +124,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mittalgovind"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=JR1C0tcAAAAJ&hl=en"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mittalgovind/"
+
 
 # Site Footer
 #footer:
