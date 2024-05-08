@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Govind Mittal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Govind Mittal"
-description              : "Ph.D. Candidate, New York University, Tandon School of Engineering. "
+description              : "Ph.D. Candidate, New York University, Tandon School of Engineering."
 url                      : "mittalgovind.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mittalgovind"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Govind Mittal"
   avatar           : "/assets/headshot.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Ph.D. Candidate, New York University, Tandon School of Engineering."
   location         : "Brooklyn, NY"
   email            :
   links:
