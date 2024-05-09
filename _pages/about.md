@@ -16,9 +16,14 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
+I am an aspirational minimalist. Currently, on an odyssey to New York. 
+I am from the northern [food capital of India](https://youtu.be/diDuEAKA0wA?feature=shared&t=761){:target="_blank"}[^1], famous for its multiculturalism, architecture and artisans.
+
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+
+[^1] I can feel your angry eyes on my back, Amritsar. 
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
@@ -49,14 +54,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 For even more demo pages check the [posts archive][year-archive].
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
 
 ---
 
@@ -81,5 +78,6 @@ For even more demo pages check the [posts archive][year-archive].
 - [Lunr](http://lunrjs.com)
 
 ---
+
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
