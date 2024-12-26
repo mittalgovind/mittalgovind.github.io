@@ -13,7 +13,7 @@ permalink: /publications/
       <a href="https://arxiv.org/abs/2412.17998">📄 Paper</a> |
       <a href="https://wave-pulse.io">🌐 Website</a> |
       <a href="#">💾 Dataset</a> |
-      <a href="#">🔧 Code</a>
+      <a href="#">🐍 Code</a>
     </div>
   </div>
 </div>
@@ -26,7 +26,7 @@ permalink: /publications/
     <p>Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon</p>
     <div class="links">
       <a href="https://arxiv.org/abs/2402.18085">📄 Paper</a> |
-      <a href="#">🔧 Code</a> |
+      <a href="#">🐍 Code</a> |
       <a href="#">💾 Dataset</a> | 
       🦍 Study Instrument: <a href="https://app.gorilla.sc/openmaterials/722500">Collection</a>, <a href="https://app.gorilla.sc/openmaterials/769578">Detection</a> 
     </div>
@@ -43,7 +43,7 @@ permalink: /publications/
       <a href="https://arxiv.org/abs/2210.06186">📄 Paper</a> |
       <a href="https://github.com/mittalgovind/GOTCHA-Deepfakes">💾 Dataset</a> | 
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqvcXbHu1VkVrPXmtP-Z9TZFrRIRO389CR4B37nLJ7FFdNkQ/viewform">👋 Request Dataset</a> | 
-      <a href="https://app.gorilla.sc/openmaterials/693684">🦍 Study Instrument Collection</a>
+      <a href="https://app.gorilla.sc/openmaterials/693684">🦍 Study Instrument</a>
     </div>
   </div>
 </div>
@@ -61,13 +61,13 @@ permalink: /publications/
 Conference Paper</a> |
       <a href="https://ieeexplore.ieee.org/abstract/document/10504891">📄 
 Journal Paper</a> |
-      <a href="https://github.com/sudban3089/ID-Preserving-Facial-Aging">🔧 Code</a>
+      <a href="https://github.com/sudban3089/ID-Preserving-Facial-Aging">🐍 Code</a>
     </div>
   </div>
 </div>
 
 <div class="publication">
-  <img src="/assets/images/concept-erasing.png" alt="Concept Erasure">
+  <img src="/assets/images/concept-erasing2.png" alt="Concept Erasure">
   <div class="content">
     <h2>Circumventing Concept Erasure Methods For Text-to-Image Generative Models</h2>
     <p><strong>International Conference on Learning Representations (ICLR 2024)</strong></p>
@@ -103,7 +103,7 @@ Journal Paper</a> |
       <a href="https://arxiv.org/abs/1908.06148">📄 Paper</a> |
       <a href="https://ieee-dataport.
 org/open-access/file-fragment-type-fft-75-dataset">💾 Dataset</a> |
-      <a href="https://github.com/mittalgovind/fifty">🔧 Code</a>
+      <a href="https://github.com/mittalgovind/fifty">🐍 Code</a>
     </div>
   </div>
 </div>
