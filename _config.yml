@@ -33,6 +33,7 @@ enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+mobile_friendly          : true
 head_scripts:
   - '<link rel="icon" type="image/png" href="/bird_favicon.png">'
 comments:

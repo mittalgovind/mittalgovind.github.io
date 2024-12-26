@@ -3,8 +3,7 @@ title: "Academic Publications"
 permalink: /publications/
 ---
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/wavepulse.png" alt="WavePulse System" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -12,7 +11,7 @@ permalink: /publications/
     <h2>WavePulse: Real-time Content Analytics of Radio Livestreams</h2>
     <p><strong>Under Review</strong></p>
     <p>Govind Mittal, Sarthak Gupta, Shruti Wagle, Anthony J DeMattee, Nasir Memon, Mustaque Ahamad, Chinmay Hegde</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/2412.17998" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
@@ -26,8 +25,7 @@ permalink: /publications/
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/pitch.png" alt="PITCH System" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -35,7 +33,7 @@ permalink: /publications/
     <h2>PITCH: AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response</h2>
     <p><strong>Under Review</strong></p>
     <p>Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/2402.18085" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
@@ -48,8 +46,7 @@ permalink: /publications/
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/gotcha.png" alt="GOTCHA System" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -57,7 +54,7 @@ permalink: /publications/
     <h2>GOTCHA: Real-Time Video Deepfake Detection via Challenge-Response</h2>
     <p><strong>IEEE European Symposium on Security and Privacy (EuroS&P 2024)</strong></p>
     <p>Govind Mittal, Chinmay Hegde, Nasir Memon</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/2210.06186" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
@@ -71,8 +68,7 @@ permalink: /publications/
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/aging.png" alt="Face Aging Results" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -82,7 +78,7 @@ permalink: /publications/
     <strong>IEEE International Joint Conference on Biometrics (IJCB 2023)</strong><br>
     <em>Best Reviewed Paper</em></p>
     <p>Sudipta Banerjee*, Govind Mittal*, Ameya Joshi, Chinmay Hegde, Nasir Memon</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/2307.08585" target="_blank"
             rel="noopener noreferrer">📄 
@@ -96,8 +92,7 @@ Journal Paper</a> |
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/concept-erasing2.png" alt="Concept Erasure" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -105,7 +100,7 @@ Journal Paper</a> |
     <h2>Circumventing Concept Erasure Methods For Text-to-Image Generative Models</h2>
     <p><strong>International Conference on Learning Representations (ICLR 2024)</strong></p>
     <p>Minh Pham, Kelly O. Marshall, Niv Cohen, Govind Mittal, Chinmay Hegde</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://openreview.net/forum?id=ag3o2T51Ht" target="_blank"
             rel="noopener noreferrer">📄 Paper</a>
@@ -113,8 +108,7 @@ Journal Paper</a> |
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/select.png" alt="SELECT Dataset" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -122,7 +116,7 @@ Journal Paper</a> |
     <h2>SELECT: A Large-Scale Benchmark of Data Curation</h2>
     <p><strong>Neural Information Processing Systems (NeurIPS 2024), Datasets and Benchmarks Track</strong></p>
     <p>Benjamin Feuer, Jiawei Xu, Niv Cohen, Patrick Yubeaton, Govind Mittal, Chinmay Hegde</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/pdf/2410.05057" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
@@ -136,8 +130,7 @@ Journal Paper</a> |
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/fifty.jpg" alt="FiFTy Architecture" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -145,7 +138,7 @@ Journal Paper</a> |
     <h2>FiFTy: Large-Scale File Fragment Type Identification</h2>
     <p><strong>IEEE Transactions on Information Forensics and Security (TIFS 2020)</strong></p>
     <p>Govind Mittal, Paweł Korus, Nasir Memon</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/1908.06148" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
@@ -158,8 +151,7 @@ org/open-access/file-fragment-type-fft-75-dataset" target="_blank"
   </div>
 </div>
 
-<div class="publication" target="_blank"
-            rel="noopener noreferrer">
+<div class="publication" markdown="1">
   <img src="/assets/images/spoken-lang.png" alt="Language ID System" target="_blank"
             rel="noopener noreferrer">
   <div class="content" target="_blank"
@@ -168,7 +160,7 @@ org/open-access/file-fragment-type-fft-75-dataset" target="_blank"
     <p><strong>European Conference on Ambient Intelligence (AmI 2019)</strong><br>
     <em>Most Cited Paper across Proceedings</em></p>
     <p>Sarthak, Shikhar Shukla, Govind Mittal</p>
-    <div class="links" target="_blank"
+    <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/1910.04269" target="_blank"
             rel="noopener noreferrer">📄 Paper</a>
