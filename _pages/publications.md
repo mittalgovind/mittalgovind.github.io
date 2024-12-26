@@ -18,7 +18,6 @@ permalink: /publications/
   </div>
 </div>
 
-
 <div class="publication">
   <img src="/assets/images/pitch.png" alt="PITCH System">
   <div class="content">
@@ -29,7 +28,7 @@ permalink: /publications/
       <a href="https://arxiv.org/abs/2402.18085">📄 Paper</a> |
       <a href="#">🔧 Code</a> |
       <a href="#">💾 Dataset</a> | 
-      <a href="#"> 🦍 Study Instrument</a> |
+      🦍 Study Instrument: <a href="https://app.gorilla.sc/openmaterials/722500">Collection</a>, <a href="https://app.gorilla.sc/openmaterials/769578">Detection</a> 
     </div>
   </div>
 </div>
@@ -42,8 +41,9 @@ permalink: /publications/
     <p>Govind Mittal, Chinmay Hegde, Nasir Memon</p>
     <div class="links">
       <a href="https://arxiv.org/abs/2210.06186">📄 Paper</a> |
-      <a href="#">🌐 Project Page</a> |
-      <a href="#">🔧 Code</a>
+      <a href="https://github.com/mittalgovind/GOTCHA-Deepfakes">💾 Dataset</a> | 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqvcXbHu1VkVrPXmtP-Z9TZFrRIRO389CR4B37nLJ7FFdNkQ/viewform">👋 Request Dataset</a> | 
+      <a href="https://app.gorilla.sc/openmaterials/693684">🦍 Study Instrument Collection</a>
     </div>
   </div>
 </div>
