@@ -12,8 +12,8 @@ permalink: /publications/
     <div class="links">
       <a href="https://arxiv.org/abs/2412.17998">📄 Paper</a> |
       <a href="https://wave-pulse.io">🌐 Website</a> |
-      <a href="#">💾 Dataset</a> |
-      <a href="#">🐍 Code</a>
+      <a href="https://huggingface.co/datasets/nyu-dice-lab/wavepulse-radio-summarized-transcripts">💾 Dataset</a> |
+      <a href="https://github.com/NYU-DICE-Lab/WavePulse/">🐍 Code</a>
     </div>
   </div>
 </div>
@@ -26,7 +26,6 @@ permalink: /publications/
     <p>Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon</p>
     <div class="links">
       <a href="https://arxiv.org/abs/2402.18085">📄 Paper</a> |
-      <a href="#">🐍 Code</a> |
       <a href="#">💾 Dataset</a> | 
       🦍 Study Instrument: <a href="https://app.gorilla.sc/openmaterials/722500">Collection</a>, <a href="https://app.gorilla.sc/openmaterials/769578">Detection</a> 
     </div>
