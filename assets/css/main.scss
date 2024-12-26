@@ -55,3 +55,11 @@ h1 {
 .publication .links a:hover {
   text-decoration: underline;
 }
+
+.masthead__menu-item {
+  &:hover {
+    &::before {
+      background: #0366d6;  /* GitHub blue to match your links */
+    }
+  }
+}
