@@ -10,4 +10,5 @@ tags:
  - Audio
 ---
 
-I fact-checked an audio deepfake at Reuters. [Read the article here](https://www.reuters.com/fact-check/trump-rally-cry-british-protesters-is-likely-ai-generated-2024-10-28/)
+I fact-checked an audio deepfake at Reuters. <a href="https://www.reuters.com/fact-check/trump-rally-cry-british-protesters-is-likely-ai-generated-2024-10-28/" target="_blank"
+            rel="noopener noreferrer">Read the article here.</a>

@@ -8,4 +8,5 @@ tags:
   - Audio
 ---
 
-WavePulse paper is now available on arXiv! Check it out [here](https://arxiv.org/abs/2412.17998).
+WavePulse paper is now available on arXiv! Check it out <a href="https://arxiv.org/abs/2412.17998" target="_blank"
+            rel="noopener noreferrer">here.</a>
