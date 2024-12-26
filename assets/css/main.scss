@@ -27,12 +27,14 @@ h1 {
   border-bottom: 1px solid #eee;
 }
 .publication img {
-  width: 250px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 3px solid #03c4d6;  /* Solid blue border matching your link color */
+    padding: 1px;  /* Space between image and border */
+  }
 .publication .content {
   flex: 1;
 }
@@ -48,7 +50,7 @@ h1 {
 }
 .publication .links a {
   text-decoration: none;
-  color: #0366d6;
+  color: #034dd6;
 }
 .publication .links a:hover {
   text-decoration: underline;
