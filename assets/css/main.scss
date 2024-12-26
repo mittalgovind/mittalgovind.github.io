@@ -4,26 +4,51 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
+/* Variables */
+@import "minimal-mistakes/variables";
 
-.page {
-  width: calc(100% - 300px);
-  margin-left: 300px;
-  padding: 0 2em;
-  margin-top: -3em;
-  max-width: none;  /* Remove max-width constraint */
+/* Mixins and functions */
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "minimal-mistakes/vendor/magnific-popup/magnific-popup";
+@import "minimal-mistakes/vendor/susy/susy";
+@import "minimal-mistakes/mixins";
+
+/* Core CSS */
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+@import "minimal-mistakes/forms";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/animations";
+
+/* Components */
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/search";
+@import "minimal-mistakes/syntax";
+
+/* Utility classes */
+@import "minimal-mistakes/utilities";
+
+/* Layout specific */
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+@import "minimal-mistakes/print";
+
+/* Navigation hover effect color change */
+.greedy-nav {
+  a {
+    &:before {
+      background: #0366d6; /* Change this to your desired color */
+    }
+  }
 }
 
-.page__title {
-  margin-top: 0;
-}
-
-h1 {
-  margin-top: 0em;
-  margin-bottom: 1em;
-}
-
+/* Custom styles */
 .publication {
   display: flex;
   align-items: flex-start;
@@ -31,38 +56,39 @@ h1 {
   margin-bottom: 3em;
   padding-bottom: 2em;
   border-bottom: 1px solid #eee;
-}
 
-.publication img {
-  width: 250px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+  img {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
 
-.publication .content {
-  flex: 1;
-}
+  .content {
+    flex: 1;
+  }
 
-.publication h2 {
-  margin: 0 0 0.5em 0;
-  font-size: 1em;
-}
+  h2 {
+    margin: 0 0 0.5em 0;
+    font-size: 1.5em;
+  }
 
-.publication p {
-  margin: 0.35em 0;
-}
+  p {
+    margin: 0.35em 0;
+  }
 
-.publication .links {
-  margin-top: 1em;
-}
+  .links {
+    margin-top: 1em;
 
-.publication .links a {
-  text-decoration: none;
-  color: #0366d6;
-}
+    a {
+      margin-right: 1em;
+      text-decoration: none;
+      color: #0366d6;
 
-.publication .links a:hover {
-  text-decoration: underline;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
 }
