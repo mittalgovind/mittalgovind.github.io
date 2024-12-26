@@ -119,11 +119,8 @@ h1 {
 }
 
 /* Mobile Responsive Styles */
+/* Mobile overrides - only apply these changes on mobile */
 @media screen and (max-width: 768px) {
-  .main-container {
-    flex-direction: column;
-  }
-
   .page {
     width: 100%;
     margin-left: 0;
@@ -136,23 +133,39 @@ h1 {
     gap: 1em;
     margin-bottom: 2em;
     padding-bottom: 1.5em;
+    align-items: center;  /* Added: Center align flex items */
+    text-align: center;   /* Added: Center align text */
   }
 
   .publication img {
     width: 180px;
-    margin: 0 auto;
+    display: block;      /* Added: Make image a block element */
+    margin: 0 auto;      /* Keep this for image centering */
+  }
+
+  .publication .content {
+    text-align: center;  /* Added: Center align content */
   }
 
   .publication h2 {
     font-size: 1.2em;
     margin-top: 1em;
-    text-align: center;
+    text-align: center;  /* Added: Center align title */
   }
 
   .publication .links {
-    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
     gap: 0.5em;
+    margin-top: 1em;
+    justify-content: center;  /* Added: Center align links */
   }
+
+  .publication .links a {
+    font-size: 0.9em;
+    padding: 0.3em 0.6em;
+  }
+
 
   /* Sidebar mobile styles */
   .sidebar {
