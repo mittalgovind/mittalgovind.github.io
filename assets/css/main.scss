@@ -28,24 +28,19 @@ search: false
   align-items: center;
   gap: 1em;
   margin-bottom: 2em;
+
+  &:before, &:after {
+    display: none;
+  }
 }
 
 .author__avatar {
   float: left;
   max-width: 120px;
   margin-right: 1em;
-}
 
-/* Remove line above profile image */
-.author__avatar {
   &:before, &:after {
-    display: none;  /* Remove any pseudo-elements */
-  }
-}
-
-.author__profile {
-  &:before, &:after {
-    display: none;  /* Remove any pseudo-elements */
+    display: none;
   }
 }
 
