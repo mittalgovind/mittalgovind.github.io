@@ -233,3 +233,18 @@ search: false
     color: #66a9ff;
   }
 }
+
+/* Hide unused toggle button globally */
+.nav-toggle,
+.toggle,
+[class*="toggle-nav"],
+.toggle-nav-open,
+.toggle-nav-close {
+  display: none !important;
+}
+
+/* If specifically for minimal mistakes theme */
+.sidebar .toggle-nav,
+.author__urls-wrapper button {
+  display: none !important;
+}
