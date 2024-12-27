@@ -1,6 +1,6 @@
 ---
 title: "GOTCHA Featured in WIRED"
-date: 2024-03-19
+date: 2024-10-15
 categories:
  - Media
  - Research

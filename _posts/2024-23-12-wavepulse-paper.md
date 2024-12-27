@@ -8,5 +8,5 @@ tags:
   - Audio
 ---
 
-WavePulse paper is now available on arXiv! Check it out <a href="https://arxiv.org/abs/2412.17998" target="_blank"
+We can now capture data off of radio live streams using WavePulse. Check it out <a href="https://arxiv.org/abs/2412.17998" target="_blank"
             rel="noopener noreferrer">here.</a>
