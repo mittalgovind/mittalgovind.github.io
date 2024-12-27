@@ -223,10 +223,32 @@ h1 {
   .sidebar-content {
     display: none;
   }
+
+  /* Position the toggle button on the left */
+  .greedy-nav__toggle {
+    padding: 0.5em;
+    position: relative;
+    left: 0;
+    margin-right: 1em;
+    order: -1; /* Move to start of flex container */
+  }
+
+  /* Adjust masthead title positioning */
+  .masthead__title {
+    padding-left: 1em;
+  }
+
+  /* Container for nav items */
+  .greedy-nav .visible-links {
+    justify-content: flex-start;
+    margin-left: 1em;
+  }
+}
 }
 
 /* Small mobile devices */
 @media screen and (max-width: 480px) {
+  /* Keep existing small device styles */
   .publication img {
     width: 150px;
   }
@@ -238,10 +260,38 @@ h1 {
   .page {
     padding: 0.75em;
   }
+
+  /* Add navigation styles for small devices */
+  .greedy-nav {
+    .masthead__menu-item {
+      padding: 0.3em;  /* Slightly smaller padding for small devices */
+    }
+  }
+
+  .greedy-nav__toggle {
+    padding: 0.3em;
+    position: relative;
+    left: 0;
+    margin-right: 0.5em;  /* Reduced margin */
+    order: -1;
+  }
+
+  .masthead__title {
+    padding-left: 0.5em;  /* Reduced padding */
+    font-size: 0.9em;    /* Slightly smaller font */
+  }
+
+  .greedy-nav .visible-links {
+    justify-content: flex-start;
+    margin-left: 0.5em;  /* Reduced margin */
+  }
 }
+
+
 
 /* Landscape orientation */
 @media screen and (max-width: 768px) and (orientation: landscape) {
+  /* Keep existing landscape styles */
   .publication {
     flex-direction: row;
   }
@@ -252,6 +302,30 @@ h1 {
 
   .publication h2 {
     text-align: left;
+  }
+
+  /* Add navigation styles for landscape */
+  .greedy-nav {
+    .masthead__menu-item {
+      padding: 0.5em;
+    }
+  }
+
+  .greedy-nav__toggle {
+    padding: 0.5em;
+    position: relative;
+    left: 0;
+    margin-right: 1em;
+    order: -1;
+  }
+
+  .masthead__title {
+    padding-left: 1em;
+  }
+
+  .greedy-nav .visible-links {
+    justify-content: flex-start;
+    margin-left: 1em;
   }
 }
 
