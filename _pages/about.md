@@ -16,17 +16,23 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-I am an aspirational minimalist, who seeks fulfilment by doing things and not having things. Currently, on an odyssey to New York (another extreme from my previous hangout at BITS Pilani).
 
-I am from the northern [food capital of India](https://youtu.be/diDuEAKA0wA?feature=shared&t=761){:target="_blank"}[^1], famous for its multiculturalism, architecture and artisans.
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+[//]: # (I am an aspirational minimalist, who seeks fulfilment by doing things and not having things. Currently, on an odyssey to New York &#40;another extreme from my previous hangout at BITS Pilani&#41;.)
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+[//]: # ()
+[//]: # (I am from the northern [food capital of India]&#40;https://youtu.be/diDuEAKA0wA?feature=shared&t=761&#41;{:target="_blank"}[^1], famous for its multiculturalism, architecture and artisans.)
 
-[^1] I can feel your angry eyes on my back, Amritsar. 
+[//]: # ()
+[//]: # (Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.)
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+[//]: # ()
+[//]: # ({% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %})
+
+[//]: # ()
+[//]: # ([^1] I can feel your angry eyes on my back, Amritsar. )
+
+[//]: # ([Install the Theme]&#40;{{ "/docs/quick-start-guide/" | relative_url }}&#41;{: .btn .btn--success .btn--large})
 
 ## Notable Features
 

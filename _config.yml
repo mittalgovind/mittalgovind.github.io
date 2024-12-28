@@ -32,6 +32,10 @@ words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+mobile_friendly          : true
+head_scripts:
+  - '<link rel="icon" type="image/png" href="/bird_favicon.png">'
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -121,15 +125,19 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mittal@nyu.edu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/Govind_Mittal_CV.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mittalgovind"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=JR1C0tcAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mittalgovind/"
+
 
 
 # Site Footer

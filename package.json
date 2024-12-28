@@ -2,22 +2,14 @@
   "name": "minimal-mistakes",
   "private": true,
   "version": "4.26.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "description": "Personal Website using Minimal Mistakes Jekyll theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/mittalgovind/mittalgovind.github.io.git"
   },
-  "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
-  ],
-  "author": "Michael Rose",
+  "author": "Govind Mittal",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://govindm.me",
   "engines": {
     "node": ">= 0.10.0"
   },
