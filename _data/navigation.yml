@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: ""
-    url: /index.html
+  - title: "Home"
+    url: /
 #  - title: "About"
 #    url: /about/
   - title: "Publications"
@@ -10,7 +10,7 @@ main:
     url: /cv/
 #  - title: "Blog"
 #    url: /blog
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Photography"
+     url: /photography/
+#   - title: "Sitemap"
+#     url: /sitemap/
