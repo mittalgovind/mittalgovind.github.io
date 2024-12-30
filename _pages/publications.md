@@ -3,7 +3,7 @@ title: "Academic Publications"
 permalink: /publications/
 og_title: "Govind Mittal | Publications"
 header:
-  overlay_image: /assets/photos/background.JPG
+  overlay_image: /assets/thumbs/pub_background-th.JPG
   overlay_filter: 0.5
 ---
 <br>

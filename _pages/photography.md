@@ -8,7 +8,7 @@ og_title: "Govind Mittal | Photography"
 og_description: "A collection of photographs from Nepal, China, Meghalaya, and Brooklyn"
 og_image: /assets/thumbs/meghalaya/1-th.JPG 
 header:
-  overlay_image: /assets/photos/background.JPG
+  overlay_image: /assets/thumbs/background-th.JPG
   overlay_filter: 0.5
   caption: "Capturing moments across diverse landscapes"
 
@@ -89,6 +89,10 @@ meghalaya_gallery:
     image_path: /assets/thumbs/meghalaya/2-th.JPG
     alt: "Meghalaya photograph 2"
     title: "Gist of the town. Can you spot the spider web?"
+  - url: /assets/photos/meghalaya/3.JPG
+    image_path: /assets/thumbs/meghalaya/3-th.JPG
+    alt: "Meghalaya photograph 3"
+    title: "Cloudy Valley"
 
 brooklyn_gallery:
   - url: /assets/photos/brooklyn/1.JPG
