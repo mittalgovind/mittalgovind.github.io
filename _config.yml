@@ -108,11 +108,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    tracking_id: "G-2CCXR96495"
+    anonymize_ip: false
 
 # Site Author
 author:
@@ -311,7 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -325,8 +323,17 @@ defaults:
       comments: # true
       share: true
       related: true
+  # Default for all pages - no sidebar
   - scope:
       path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      classes: wide
+  # Override for homepage - with sidebar
+  - scope:
+      path: "index.md"  # or "index.html" based on your homepage file
       type: pages
     values:
       layout: single
