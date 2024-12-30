@@ -1,11 +1,5 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-    <button class="sidebar-toggle" aria-label="Toggle Sidebar">
-      <span class="toggle-line"></span>
-      <span class="toggle-line"></span>
-      <span class="toggle-line"></span>
-    </button>
-
     <div class="sidebar-content">
       {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
       {% if page.sidebar %}
@@ -25,11 +19,4 @@
       {% endif %}
     </div>
   </div>
-
-  <script>
-    document.querySelector('.sidebar-toggle').addEventListener('click', function() {
-      document.querySelector('.sidebar').classList.toggle('is-visible');
-      document.querySelector('.sidebar-content').classList.toggle('is-visible');
-    });
-  </script>
 {% endif %}

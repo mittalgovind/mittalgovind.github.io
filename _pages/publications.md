@@ -41,6 +41,8 @@ header:
             rel="noopener noreferrer">
       <a href="https://arxiv.org/abs/2402.18085" target="_blank"
             rel="noopener noreferrer">📄 Paper</a> |
+      <a href="/pitch" target="_blank"
+            rel="noopener noreferrer">🌐 Website</a> |
       <a href="#" target="_blank"
             rel="noopener noreferrer">💾 Dataset</a> | 
       🦍 Study Instrument: <a href="https://app.gorilla.sc/openmaterials/722500" target="_blank"
