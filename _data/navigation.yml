@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-#  - title: "About"
-#    url: /about/
+  - title: ""
+    url: /index.html
+  #  - title: "About"
+  #    url: /about/
   - title: "Publications"
     url: /publications/
   - title: "CV"
     url: /cv/
-#  - title: "Blog"
-#    url: /blog
-   - title: "Photography"
-     url: /photography/
+  #  - title: "Blog"
+  #    url: /blog
+  - title: "Photography"
+    url: /photography/
 #   - title: "Sitemap"
 #     url: /sitemap/
