@@ -4,7 +4,7 @@ permalink: /photography/
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/photos/nepal/1.JPG
+  overlay_image: /assets/photos/background.JPG
   overlay_filter: 0.5
   caption: "Capturing moments across diverse landscapes"
 
