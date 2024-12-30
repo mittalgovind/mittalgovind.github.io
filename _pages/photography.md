@@ -139,7 +139,8 @@ brooklyn_gallery:
 <div class="gallery-layout">
   <section class="gallery-section">
     <h2>Nepal</h2>
-    <p>Exploring the majestic Himalayas: capturing the breathtaking landscapes, ancient temples, and vibrant culture of Nepal.</p>
+    <p>Exploring the majestic Himalayas: capturing the breathtaking 
+landscapes and vibrant culture of Nepal.</p>
     <div class="gallery-grid">
       {% for item in page.nepal_gallery %}
         <div class="gallery-item {% if item.orientation == 'horizontal' %}horizontal{% else %}vertical{% endif %}">
@@ -173,7 +174,7 @@ brooklyn_gallery:
 
   <section class="gallery-section">
     <h2>Meghalaya</h2>
-    <p>Discovering the 'Abode of Clouds': documenting the living root bridges and misty landscapes of Northeast India.</p>
+    <p>Discovering the 'Abode of Clouds': misty landscapes of Northeast India.</p>
     <div class="gallery-grid">
       {% for item in page.meghalaya_gallery %}
         <div class="gallery-item {% if item.orientation == 'horizontal' %}horizontal{% else %}vertical{% endif %}">
@@ -190,7 +191,7 @@ brooklyn_gallery:
 
   <section class="gallery-section">
     <h2>Brooklyn</h2>
-    <p>Urban exploration through Brooklyn's diverse neighborhoods, capturing the borough's unique character and charm.</p>
+    <p>Brooklyn and New York's Non-touristy vibes</p>
     <div class="gallery-grid">
       {% for item in page.brooklyn_gallery %}
         <div class="gallery-item {% if item.orientation == 'horizontal' %}horizontal{% else %}vertical{% endif %}">
