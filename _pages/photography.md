@@ -3,6 +3,10 @@ title: "Photography"
 permalink: /photography/
 layout: single
 classes: wide
+description: "A collection of photographs from Nepal, China, Meghalaya, and Brooklyn"
+og_title: "Govind Mittal | Photography"
+og_description: "A collection of photographs from Nepal, China, Meghalaya, and Brooklyn"
+og_image: /assets/thumbs/meghalaya/1-th.JPG 
 header:
   overlay_image: /assets/photos/background.JPG
   overlay_filter: 0.5

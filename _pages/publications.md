@@ -1,6 +1,7 @@
 ---
 title: "Academic Publications"
 permalink: /publications/
+og_title: "Govind Mittal | Publications"
 ---
 
 <div class="publication" markdown="1">

@@ -26,3 +26,16 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- Social sharing metadata -->
+<meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}{{ page.title }} {{ site.title_separator }} {{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{{ page.description }}{% endif %}">
+<meta property="og:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card metadata -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}{{ page.title }} {{ site.title_separator }} {{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{{ page.description }}{% endif %}">
+<meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% endif %}">
