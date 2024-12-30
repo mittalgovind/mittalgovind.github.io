@@ -69,7 +69,7 @@ china_gallery:
     image_path: /assets/thumbs/china/4-th.JPG
     alt: "China photograph 4"
     title: "Traditional Chinese Floral Dress"
-    orientation: horizontal
+    orientation: vertical
   - url: /assets/photos/china/5.JPG
     image_path: /assets/thumbs/china/5-th.JPG
     alt: "China photograph 5"
