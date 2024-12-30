@@ -12,93 +12,93 @@ nepal_gallery:
   - url: /assets/photos/nepal/1.JPG
     image_path: /assets/photos/nepal/1.JPG
     alt: "Nepal photograph 1"
-    title: "Nepal"
+    title: "Phewa Lake, Pokhara with pregnant clouds"
   - url: /assets/photos/nepal/2.JPG
     image_path: /assets/photos/nepal/2.JPG
     alt: "Nepal photograph 2"
-    title: "Nepal"
+    title: "Annapurna: A mountain peak signals how the crop will be this year"
   - url: /assets/photos/nepal/3.JPG
     image_path: /assets/photos/nepal/3.JPG
     alt: "Nepal photograph 3"
-    title: "Nepal"
+    title: "Annapurna Range. Mountains in the back are 50 kms apart."
   - url: /assets/photos/nepal/4.JPG
     image_path: /assets/photos/nepal/4.JPG
     alt: "Nepal photograph 4"
-    title: "Nepal"
+    title: "Nepali Staple Food: Lentils, Rice, vegetables, spicy sauce, ghee, All home-grown."
   - url: /assets/photos/nepal/5.JPG
     image_path: /assets/photos/nepal/5.JPG
     alt: "Nepal photograph 5"
-    title: "Nepal"
+    title: "Rice Field"
   - url: /assets/photos/nepal/6.JPG
     image_path: /assets/photos/nepal/6.JPG
     alt: "Nepal photograph 6"
-    title: "Nepal"
+    title: "High on Okra"
   - url: /assets/photos/nepal/7.JPG
     image_path: /assets/photos/nepal/7.JPG
     alt: "Nepal photograph 7"
-    title: "Nepal"
+    title: "Gorakhpur, Uttar Pradesh, India"
 
 china_gallery:
   - url: /assets/photos/china/1.JPG
     image_path: /assets/photos/china/1.JPG
     alt: "China photograph 1"
-    title: "China"
+    title: "Heart in the Clouds"
   - url: /assets/photos/china/2.JPG
     image_path: /assets/photos/china/2.JPG
     alt: "China photograph 2"
-    title: "China"
+    title: "Buddha depiction carved on a tree trunk. More expensive than a Shanghai Apartment."
   - url: /assets/photos/china/3.JPG
     image_path: /assets/photos/china/3.JPG
     alt: "China photograph 3"
-    title: "China"
+    title: "Me in the Tang dress"
   - url: /assets/photos/china/4.JPG
     image_path: /assets/photos/china/4.JPG
     alt: "China photograph 4"
-    title: "China"
+    title: "Traditional Chinese Floral Dress"
   - url: /assets/photos/china/5.JPG
     image_path: /assets/photos/china/5.JPG
     alt: "China photograph 5"
-    title: "China"
+    title: "Progress"
   - url: /assets/photos/china/6.JPG
     image_path: /assets/photos/china/6.JPG
     alt: "China photograph 6"
-    title: "China"
+    title: "Dali, Yunnan"
   - url: /assets/photos/china/7.JPG
     image_path: /assets/photos/china/7.JPG
     alt: "China photograph 7"
-    title: "China"
+    title: "Fisher under Heaven"
   - url: /assets/photos/china/8.JPG
     image_path: /assets/photos/china/8.JPG
     alt: "China photograph 8"
-    title: "China"
+    title: "Temple, Dali, Yunnan"
   - url: /assets/photos/china/9.JPG
     image_path: /assets/photos/china/9.JPG
     alt: "China photograph 9"
-    title: "China"
+    title: "Floral Market. Thanks, Miss :)"
 
 meghalaya_gallery:
   - url: /assets/photos/meghalaya/1.JPG
     image_path: /assets/photos/meghalaya/1.JPG
     alt: "Meghalaya photograph 1"
-    title: "Meghalaya"
+    title: "Truly green. Greenery overshadowing the blue reflection of the sky."
   - url: /assets/photos/meghalaya/2.JPG
     image_path: /assets/photos/meghalaya/2.JPG
     alt: "Meghalaya photograph 2"
-    title: "Meghalaya"
+    title: "Gist of the town. Can you spot the spider web?"
 
 brooklyn_gallery:
   - url: /assets/photos/brooklyn/1.JPG
     image_path: /assets/photos/brooklyn/1.JPG
     alt: "Brooklyn photograph 1"
-    title: "Brooklyn"
+    title: "Shades of green"
   - url: /assets/photos/brooklyn/2.JPG
     image_path: /assets/photos/brooklyn/2.JPG
     alt: "Brooklyn photograph 2"
-    title: "Brooklyn"
+    title: "Fall Colors, Upstate New York"
   - url: /assets/photos/brooklyn/3.JPG
     image_path: /assets/photos/brooklyn/3.JPG
     alt: "Brooklyn photograph 3"
-    title: "Brooklyn"
+    title: "July 4th view from Williamsburg, Brooklyn"
 ---
 
 <div class="gallery-layout">
