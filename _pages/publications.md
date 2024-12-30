@@ -2,8 +2,11 @@
 title: "Academic Publications"
 permalink: /publications/
 og_title: "Govind Mittal | Publications"
+header:
+  overlay_image: /assets/photos/background.JPG
+  overlay_filter: 0.5
 ---
-
+<br>
 <div class="publication" markdown="1">
   <img src="/assets/images/wavepulse.png" alt="WavePulse System" target="_blank"
             rel="noopener noreferrer">
