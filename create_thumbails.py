@@ -41,7 +41,8 @@ def create_thumbnails(source_dir, thumb_size=(800, 800)):
                 # Create thumbnail filename with -th suffix
                 thumb_filename = f"{Path(filename).stem}-th{Path(filename).suffix}"
                 output_path = os.path.join(thumb_dir, thumb_filename)
-
+                if os.path.isfile(output_path):
+                    continue
                 try:
                     # Open and process image
                     with Image.open(input_path) as img:

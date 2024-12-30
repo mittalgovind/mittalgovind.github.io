@@ -107,6 +107,10 @@ brooklyn_gallery:
     image_path: /assets/thumbs/brooklyn/3-th.JPG
     alt: "Brooklyn photograph 3"
     title: "July 4th view from Williamsburg, Brooklyn"
+  - url: /assets/photos/brooklyn/4.JPG
+    image_path: /assets/thumbs/brooklyn/4-th.JPG
+    alt: "Brooklyn photograph 4"
+    title: "Skies over the Prospect Park"
 ---
 
 <div class="gallery-layout">
