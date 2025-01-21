@@ -13,7 +13,7 @@ header:
   <div class="content" target="_blank"
             rel="noopener noreferrer">
     <h2>WavePulse: Real-time Content Analytics of Radio Livestreams</h2>
-    <p><strong>Under Review</strong></p>
+    <p><strong>The Web Conference (WWW 2025)</strong></p>
     <p>Govind Mittal, Sarthak Gupta, Shruti Wagle, Anthony J DeMattee, Nasir Memon, Mustaque Ahamad, Chinmay Hegde</p>
     <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
