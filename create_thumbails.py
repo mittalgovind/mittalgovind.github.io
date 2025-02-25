@@ -10,6 +10,7 @@ def create_thumbnails(source_dir, max_dimension=800):
         # Add other vertical image paths here
         'assets/photos/china/1.JPG',
         'assets/photos/china/4.JPG',
+        'assets/photos/brooklyn/5.JPG',
         'assets/photos/brooklyn/1.JPG',
     ]
 

@@ -129,7 +129,7 @@ author:
       url: "/assets/Govind_Mittal_CV.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=JR1C0tcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?hl=en&user=JR1C0tcAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mittalgovind/"

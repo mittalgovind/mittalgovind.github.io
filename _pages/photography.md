@@ -134,6 +134,11 @@ brooklyn_gallery:
     alt: "Brooklyn photograph 4"
     title: "Skies over the Prospect Park"
     orientation: horizontal
+  - url: /assets/photos/brooklyn/5.JPG
+    image_path: /assets/thumbs/brooklyn/5-th.JPG
+    alt: "Brooklyn photograph 5"
+    title: "Snow bordered bricks."
+    orientation: vertical
 ---
 
 <div class="gallery-layout">
