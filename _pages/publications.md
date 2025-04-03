@@ -35,7 +35,7 @@ header:
   <div class="content" target="_blank"
             rel="noopener noreferrer">
     <h2>PITCH: AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response</h2>
-    <p><strong>Under Review</strong></p>
+    <p><strong>ACM Asia Conference on Computer and Communications Security (AsiaCCS 2025)</strong></p>
     <p>Govind Mittal, Arthur Jakobsson, Kelly O. Marshall, Chinmay Hegde, Nasir Memon</p>
     <div class="links mobile-friendly" target="_blank"
             rel="noopener noreferrer">
