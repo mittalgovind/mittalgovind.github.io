@@ -3,9 +3,9 @@ title: "Photography"
 permalink: /photography/
 layout: single
 classes: wide
-description: "A collection of photographs from Nepal, China, Meghalaya, and Brooklyn"
+description: "A collection of photographs from Nepal, Meghalaya, and Brooklyn"
 og_title: "Govind Mittal | Photography"
-og_description: "A collection of photographs from Nepal, China, Meghalaya, and Brooklyn"
+og_description: "A collection of photographs from Nepal, Meghalaya, and Brooklyn"
 og_image: /assets/thumbs/meghalaya/1-th.JPG 
 header:
   overlay_image: /assets/thumbs/background-th.JPG
@@ -47,53 +47,6 @@ nepal_gallery:
     image_path: /assets/thumbs/nepal/7-th.JPG
     alt: "Nepal photograph 7"
     title: "Gorakhpur, Uttar Pradesh, India"
-    orientation: horizontal
-
-china_gallery:
-  - url: /assets/photos/china/1.JPG
-    image_path: /assets/thumbs/china/1-th.JPG
-    alt: "China photograph 1"
-    title: "Heart in the Clouds"
-    orientation: vertical
-  - url: /assets/photos/china/2.JPG
-    image_path: /assets/thumbs/china/2-th.JPG
-    alt: "China photograph 2"
-    title: "Buddha depiction carved on a tree trunk. More expensive than a Shanghai Apartment."
-    orientation: horizontal
-  - url: /assets/photos/china/3.JPG
-    image_path: /assets/thumbs/china/3-th.JPG
-    alt: "China photograph 3"
-    title: "Me in the Tang dress"
-    orientation: horizontal
-  - url: /assets/photos/china/4.JPG
-    image_path: /assets/thumbs/china/4-th.JPG
-    alt: "China photograph 4"
-    title: "Traditional Chinese Floral Dress"
-    orientation: vertical
-  - url: /assets/photos/china/5.JPG
-    image_path: /assets/thumbs/china/5-th.JPG
-    alt: "China photograph 5"
-    title: "Progress"
-    orientation: horizontal
-  - url: /assets/photos/china/6.JPG
-    image_path: /assets/thumbs/china/6-th.JPG
-    alt: "China photograph 6"
-    title: "Dali, Yunnan"
-    orientation: horizontal
-  - url: /assets/photos/china/7.JPG
-    image_path: /assets/thumbs/china/7-th.JPG
-    alt: "China photograph 7"
-    title: "Fisher under Heaven"
-    orientation: horizontal
-  - url: /assets/photos/china/8.JPG
-    image_path: /assets/thumbs/china/8-th.JPG
-    alt: "China photograph 8"
-    title: "Temple, Dali, Yunnan"
-    orientation: horizontal
-  - url: /assets/photos/china/9.JPG
-    image_path: /assets/thumbs/china/9-th.JPG
-    alt: "China photograph 9"
-    title: "Young Lady in Floral Market. Thank you, Miss :)"
     orientation: horizontal
 
 meghalaya_gallery:
@@ -148,23 +101,6 @@ brooklyn_gallery:
 landscapes and vibrant culture of Nepal.</p>
     <div class="gallery-grid">
       {% for item in page.nepal_gallery %}
-        <div class="gallery-item {% if item.orientation == 'horizontal' %}horizontal{% else %}vertical{% endif %}">
-          <a href="{{ item.url }}" title="{{ item.title }}" class="image-link">
-            <img src="{{ item.image_path }}" alt="{{ item.alt }}" loading="lazy">
-            <div class="gallery-caption">
-              <span class="caption-text">{{ item.title }}</span>
-            </div>
-          </a>
-        </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <section class="gallery-section">
-    <h2>China</h2>
-    <p>A visual journey through China's diverse landscapes, from ancient architecture to modern cityscapes.</p>
-    <div class="gallery-grid">
-      {% for item in page.china_gallery %}
         <div class="gallery-item {% if item.orientation == 'horizontal' %}horizontal{% else %}vertical{% endif %}">
           <a href="{{ item.url }}" title="{{ item.title }}" class="image-link">
             <img src="{{ item.image_path }}" alt="{{ item.alt }}" loading="lazy">
